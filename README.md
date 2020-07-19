@@ -9,6 +9,7 @@
 - :dart: Technical Architect, Full stack development 
 - :heart: Learn all Technologies
 - :e-mail: Ask me about anything ; **[sebanaza@hotmail.com](sebanaza@hotmail.com)**
+- Free time :soccer: :meditation:
 ### Languages and Tools :computer:
 ```javascript
 const sebanazarian = {
@@ -24,5 +25,5 @@ const sebanazarian = {
 
 |  <a href="https://hritik5102.github.io/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Seba Naza](https://hritik5102.github.io/)**                                                                                |
+|       [Seba Naza]                                                                               |
 |<a href="https://github.com/sebanazarian"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a>  <a href="https://www.linkedin.com/in/sebastian-nazarian-10a26326"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |

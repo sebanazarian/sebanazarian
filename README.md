@@ -9,7 +9,7 @@
 - :dart: Technical Architect, Full stack development 
 - :heart: Learn all Technologies
 - :e-mail: Ask me about anything ; **[sebanaza@hotmail.com](sebanaza@hotmail.com)**
-- Free time :soccer: :meditation:
+- Free time :soccer: :bike: :books:  Meditation
 ### Languages and Tools :computer:
 ```javascript
 const sebanazarian = {

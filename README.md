@@ -14,8 +14,8 @@
 ```javascript
 const sebanazarian = {
   pronouns: "he" | "his",
-  code: [Javascript, HTML, CSS, Php],
-  tools: [React, Laravel, Node, Docker, DevSecOps, Cloud],
+  code: [Javascript, HTML, CSS, C#],
+  tools: [React, .Net, Laravel, Node, Docker, DevSecOps, Cloud],
   architecture: ["Technical Architect Consulting"],
  challenge: "I am constantly learning new technologies, especially focused on Architecture and different programming languages and Framework (js, React)"
 }

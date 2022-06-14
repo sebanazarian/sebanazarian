@@ -6,7 +6,7 @@
 
 ### About me :eyes:
 
-- :dart: Technical Architect, Full stack development 
+- :dart: Technical Architect, Cloud Architect
 - :heart: Learn all Technologies
 - :e-mail: Ask me about anything ; **sebanaza@hotmail.com**
 - Free time :soccer: :bike: :books:  Meditation

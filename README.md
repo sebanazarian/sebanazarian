@@ -8,7 +8,7 @@
 
 - :dart: Technical Architect, Cloud Architect
 - :heart: Learn all Technologies
-- :e-mail: Ask me about anything ; **sebanaza@hotmail.com**
+- :e-mail: Ask me about anything ; **sebanazarian@gmail.com**
 - Free time :soccer: :bike: :books:  Meditation
 ### Languages and Tools :computer:
 ```javascript
